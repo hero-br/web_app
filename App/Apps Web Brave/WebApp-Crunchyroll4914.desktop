@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Name=Crunchyroll
+Comment=Aplicación web
+Exec=brave-browser --app-id=hjlhbeffadgkonmpnblkfmhckmocohah --class=WebApp-Crunchyroll4914 --name=WebApp-Crunchyroll4914
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=brave-hjlhbeffadgkonmpnblkfmhckmocohah-Default
+Categories=GTK;WebApps;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-Crunchyroll4914
+StartupNotify=true
+X-WebApp-Browser=Brave Browser
+X-WebApp-URL=https://www.crunchyroll.com/pt-br
+X-WebApp-CustomParameters=
+X-WebApp-Navbar=false
+X-WebApp-PrivateWindow=false
+X-WebApp-Isolated=false

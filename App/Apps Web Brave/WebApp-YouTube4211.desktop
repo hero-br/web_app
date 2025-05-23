@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Name=YouTube
+Comment=Aplicación web
+Exec=brave-browser --app-id=agimnkijcaahngcdmfeangaknmldooml --class=WebApp-YouTube4211 --name=WebApp-YouTube4211
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=brave-agimnkijcaahngcdmfeangaknmldooml-Default
+Categories=GTK;WebApps;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-YouTube4211
+StartupNotify=true
+X-WebApp-Browser=Brave Browser
+X-WebApp-URL=https://www.youtube.com/
+X-WebApp-CustomParameters=
+X-WebApp-Navbar=false
+X-WebApp-PrivateWindow=false
+X-WebApp-Isolated=false
